@@ -1,5 +1,5 @@
 
-[Verifique a página de exemplo!] (https://mauriney.github.io/psf/)
+[Página demo!] (https://mauriney.github.io/psf/)
 
 
 
@@ -7,6 +7,6 @@
 
 [Mauriney R. da Costa](https://github.com/mauriney)
 
-##Licensa
+## Licensa
 
 Template desenvolvido sobre o projeto [Strart bootstrap](http://startbootstrap.com/template-overviews/creative/).
